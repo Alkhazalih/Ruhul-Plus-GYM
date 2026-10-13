@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Ruhul Plus GYM",
+    "slug": "ruhulApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#020617",
+        "foregroundImage": "./assets/icon.png"
+      },
+      "package": "com.ruhul.members"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "81446123-33fa-40f6-afde-4422b6e4f007"
+      }
+    }
+  }
+}
